@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱I’m currently working on Developing full-stack applications using Spring Boot and React.<br>🔭I’m looking to collaborate on: Java-based web applications and RESTful API projects.<br>🤝I’m looking for help with Optimizing Java backend services and deploying apps in cloud environments.<br>💬I’m currently learning Microservices architecture and frontend development with React.<br>📫 How to reach me akshat.seth0508@gmail.com
+🌱I’m currently working on Developing full-stack applications using Spring Boot and React.
+<br>🔭I’m looking to collaborate on: Java-based web applications and RESTful API projects.
+<br>🤝I’m looking for help with Optimizing Java backend services and deploying apps in cloud environments.
+<br>💬I’m currently learning Microservices architecture and frontend development with React.
+<br>📫 How to reach me akshat.seth0508@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akshat0502&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
