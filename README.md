@@ -1,9 +1,9 @@
 # 💫 About Me:
-<h5>🌱 I’m currently working on Developing full-stack applications using Spring Boot and React.<br>
+<h3>🌱 I’m currently working on Developing full-stack applications using Spring Boot and React.<br>
 🔭 I’m looking to collaborate on Java-based web applications and RESTful API projects.<br>
 🤝 I’m looking for help with Optimizing Java backend services and deploying apps in cloud environments.<br>
 💬 I’m currently learning Microservices architecture and frontend development with React.<br>
-<b>📫 How to reach me <a href="akshat.seth0508@gmail.com">akshat.seth0508@gmail.com</a></b></h5>
+<b>📫 How to reach me <a href="akshat.seth0508@gmail.com">akshat.seth0508@gmail.com</a></b></h3>
 
 
 ## 🌐 Socials:
